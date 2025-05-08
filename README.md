@@ -1,8 +1,8 @@
 -# 👋 Hi, I’m Zito Antoine
 
 🎓 **Medical Imaging Student** at the University of Rwanda  
-💻 **Aspiring Health Tech Innovator** | Currently learning **CS50: Introduction to Computer Science**  
-📍 Based in Kigali, Rwanda
+💻 **Aspiring Health Tech Innovator** | Currently learning **CS50: Introduction to Computer Science** And **Medical Imaging Science  
+📍 Based in Kigali, Rwanda**
 
 ---
 
@@ -14,7 +14,7 @@
 ---
 
 ## 🚧 What I'm Working On
-- 📚 Completing CS50's Problem Sets (C, Python, Scratch, HTML/CSS/JS)
+- 📚 Completing CS50's introduction to computer scienceand corresponding Problem Sets of each and every week
 - 💡 Designing an AI-powered medical imaging tool for radiograph interpretation  
 - 🧱 Building mini-projects in C and Scratch to sharpen my logic and code skills
 
